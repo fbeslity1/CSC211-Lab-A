@@ -1,1 +1,1 @@
-# CSC211-Lab-A
+# The following program is a login application. The user will be asked to enter a username and a password, then will click a button to login. The program will alert the user when a button is pressed. To create this program, I used https://docs.oracle.com/javafx/2/get_started/fxml_tutorial.htm#CHDFJDAE, a tutorial for getting started with javaFX.
